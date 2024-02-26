@@ -3,3 +3,5 @@ Adding second line.
 Skipping the stagging part.
 checking the diff commad!
 hello Subhro!
+
+going to remove and restore file from git.
