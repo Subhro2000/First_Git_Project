@@ -1,5 +1,3 @@
 Nmae = Subhro Ghosh
 DOB = 07/08/2000
 Mob No = 7003038959
-Father Name = Swapan Ghosh
-Mother Name = Rama Ghosh
